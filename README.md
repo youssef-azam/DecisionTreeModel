@@ -1,1 +1,2 @@
 # DecisionTreeModel
+Accurace 93%
